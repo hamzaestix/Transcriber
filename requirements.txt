@@ -1,5 +1,2 @@
 streamlit
-yt-dlp
-shutil
-tempfile
 
