@@ -8,7 +8,7 @@ from zipfile import ZipFile
 import tempfile
 
 # AssemblyAI API details
-ASSEMBLYAI_API_KEY = 'eaff137194ce4c2286d3b0ebea4bcb19'  # Replace with your AssemblyAI API key
+ASSEMBLYAI_API_KEY = ''  # Replace with your AssemblyAI API key
 headers = {'authorization': ASSEMBLYAI_API_KEY, 'content-type': 'application/json'}
 
 # Function to download the YouTube video and convert it to MP3
